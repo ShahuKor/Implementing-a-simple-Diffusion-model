@@ -1,4 +1,4 @@
-# Implementing-a-simple-Diffusion-model
+# Implementing a simple Diffusion model using Pytorch
 
 In this repository I have tried to build a diffusion model in Pytorch.
 The complete notebook code is done by understanding the fundamentals of a Diffusion model and how is it useful to generate images.
